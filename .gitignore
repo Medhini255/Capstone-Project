@@ -1,0 +1,11 @@
+# Ignore model weights, cache, and large data
+*.pt
+*.zip
+*.tar
+*.tar.gz
+
+# YOLOv8 run results (optional)
+runs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
