@@ -1,0 +1,14 @@
+path: /content/new
+
+train: train/images
+val: valid/images
+
+nc: 6  
+names: [
+  "capacitor",
+  "transistor",
+  "ic",
+  "led",
+  "pendrive",
+  "dry-cell",
+]
